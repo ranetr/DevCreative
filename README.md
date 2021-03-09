@@ -1,6 +1,6 @@
-# 𝕘𝕖𝕥𝕥𝕠𝗩𝗗𝗦
+DevCreative VDS
 
-Youtube Video: https://youtu.be/DYbXY2s0hqs
+Youtube Video: 
 
 Kod: NGROK_AUTH_TOKEN
 
